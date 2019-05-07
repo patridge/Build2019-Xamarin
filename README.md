@@ -9,7 +9,7 @@
 
 ## Build 2019 students
 
-Students who build and deploy the **Build your first cross-platform Xamarin.Forms app with Microsoft Learn** project at Build will earn a Xamarin JBL speaker! Please show your new app to a Xamarin representative in the Student Zone to claim your prize. (One speaker per student submission.)
+Students who build and deploy the **Build your first cross-platform Xamarin.Forms app with Microsoft Learn** project at Build will earn a Xamarin JBL speaker! Please show your new app to a representative at the Xamarin booth to claim your prize. (One speaker per student submission.)
 
 ## Having trouble?
 
